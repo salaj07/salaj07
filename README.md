@@ -73,6 +73,23 @@ const salaj = {
 <!-- ============ INTERACTIVE SECTIONS ============ -->
 ## 🎮 Click to Explore
 
+<div align="center">
+
+<img src="assets/parrots/coffeeparrot.gif" width="30" />
+<img src="assets/parrots/fixparrot.gif" width="30" />
+<img src="assets/parrots/deployparrot.gif" width="30" />
+<img src="assets/parrots/shipitparrot.gif" width="30" />
+<img src="assets/parrots/fiestaparrot.gif" width="30" />
+<img src="assets/parrots/dabparrot.gif" width="30" />
+<img src="assets/parrots/matrixparrot.gif" width="30" />
+<img src="assets/parrots/shufflepartyparrot.gif" width="30" />
+<img src="assets/parrots/explodyparrot.gif" width="30" />
+<img src="assets/parrots/metalparrot.gif" width="30" />
+
+</div>
+
+<br/>
+
 <details>
 <summary><b>🚀 What I'm working on right now</b></summary>
 <br/>
