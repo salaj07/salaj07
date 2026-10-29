@@ -154,17 +154,11 @@ I'm open to collaborating on **interactive web apps**, **UI-heavy projects** and
 </div>
 
 <!-- ============ SNAKE ============ -->
-## 🐍 Contribution Snake
+## 🐍 A Snake Eating my Contributions Graph
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salaj07/salaj07/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salaj07/salaj07/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/salaj07/salaj07/output/github-snake-dark.svg" />
-</picture>
-
-</div>
+<p align="center">
+  <img src="https://github.com/salaj07/salaj07/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game" />
+</p>
 
 <!-- ============ QUOTE ============ -->
 ## ✍️ Dev Quote
