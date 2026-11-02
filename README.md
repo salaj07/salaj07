@@ -11,7 +11,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=salaj07&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 <img src="https://img.shields.io/github/followers/salaj07?label=Followers&style=for-the-badge&logo=github&color=8957e5" alt="followers" />
-<img src="https://img.shields.io/github/stars/salaj07?label=Stars&style=for-the-badge&logo=github&color=e3b341" alt="stars" />
+<img src="https://img.shields.io/badge/Open%20to-Collaborate-2ea44f?style=for-the-badge&logo=handshake&logoColor=white" alt="open to collaborate" />
 
 <br/><br/>
 
@@ -24,6 +24,23 @@
 </div>
 
 <br/>
+
+<!-- ============ TERMINAL ============ -->
+## 🖥️ `whoami`
+
+```bash
+salaj@github:~$ whoami
+> Salaj, a MERN stack dev who makes things move on the screen
+
+salaj@github:~$ cat stack.txt
+> React · Node · Express · MongoDB · Tailwind · Socket.io
+
+salaj@github:~$ echo $FAVOURITE_DEBUGGER
+> console.log("here 1"); console.log("here 2"); console.log("WHY"); 😄
+
+salaj@github:~$ ./ship-it.sh
+> 🚀 Deploying... done. Coffee refilled. ☕
+```
 
 <!-- ============ ABOUT ============ -->
 ## 👨‍💻 About Me
@@ -46,7 +63,7 @@ const salaj = {
 </td>
 <td width="40%">
 
-- 🌱 Currently learning the **MERN stack**
+- 🛠️ Building full-stack apps with the **MERN stack**
 - 👀 Into **interactive, animated websites**
 - 🎨 Love clean UI and smooth UX
 - 📫 Reach me at **salaj9877@gmail.com**
@@ -70,25 +87,53 @@ const salaj = {
 
 </div>
 
-<!-- ============ INTERACTIVE SECTIONS ============ -->
-## 🎮 Click to Explore
+<!-- ============ DEV LOOP ============ -->
+## 🔁 My Dev Loop
 
 <div align="center">
 
-<img src="assets/parrots/coffeeparrot.gif" width="30" />
-<img src="assets/parrots/fixparrot.gif" width="30" />
-<img src="assets/parrots/deployparrot.gif" width="30" />
-<img src="assets/parrots/shipitparrot.gif" width="30" />
-<img src="assets/parrots/fiestaparrot.gif" width="30" />
-<img src="assets/parrots/dabparrot.gif" width="30" />
-<img src="assets/parrots/matrixparrot.gif" width="30" />
-<img src="assets/parrots/shufflepartyparrot.gif" width="30" />
-<img src="assets/parrots/explodyparrot.gif" width="30" />
-<img src="assets/parrots/metalparrot.gif" width="30" />
+<table>
+<tr>
+<td align="center"><img src="assets/parrots/coffeeparrot.gif" width="40" /><br/><sub><b>Coffee</b></sub></td>
+<td align="center">➜</td>
+<td align="center"><img src="assets/parrots/matrixparrot.gif" width="40" /><br/><sub><b>Code</b></sub></td>
+<td align="center">➜</td>
+<td align="center"><img src="assets/parrots/fixparrot.gif" width="40" /><br/><sub><b>Fix bugs</b></sub></td>
+<td align="center">➜</td>
+<td align="center"><img src="assets/parrots/deployparrot.gif" width="40" /><br/><sub><b>Deploy</b></sub></td>
+<td align="center">➜</td>
+<td align="center"><img src="assets/parrots/shipitparrot.gif" width="40" /><br/><sub><b>Ship it</b></sub></td>
+<td align="center">➜</td>
+<td align="center"><img src="assets/parrots/fiestaparrot.gif" width="40" /><br/><sub><b>Party</b></sub></td>
+</tr>
+</table>
 
 </div>
 
-<br/>
+```mermaid
+flowchart LR
+    A[💡 Idea] --> B[🎨 Design the UI]
+    B --> C[⚛️ Build with React]
+    C --> D[🧠 Node + Mongo backend]
+    D --> E{Works?}
+    E -- "nope" --> F[🪵 console.log everything]
+    F --> C
+    E -- "yes!" --> G[🚀 Ship it]
+```
+
+<!-- ============ QUEST LOG ============ -->
+## 🎯 Quest Log: 2026
+
+| Quest | Status | Progress |
+| :-- | :-: | :-- |
+| 🧱 Learn the MERN stack fundamentals | ✅ Complete | `██████████` 100% |
+| 🚢 Ship 3 production-ready full-stack projects | 🔨 In progress | `██████░░░░` 60% |
+| 🌌 Build a portfolio with 3D / scroll animations | 🔨 In progress | `████░░░░░░` 40% |
+| 🔷 Learn TypeScript and Next.js | 📚 Studying | `███░░░░░░░` 30% |
+| 🌍 Contribute to open source | 🎒 Next up | `█░░░░░░░░░` 10% |
+
+<!-- ============ MORE ABOUT ============ -->
+## 🧭 A Bit More
 
 <details>
 <summary><b>🚀 What I'm working on right now</b></summary>
@@ -97,18 +142,6 @@ const salaj = {
 - 🔨 Building full-stack MERN projects with real-time features (Socket.io)
 - 🎨 Polishing UI with animations and micro-interactions
 - 📚 Leveling up React patterns and backend architecture
-
-</details>
-
-<details>
-<summary><b>🎯 My 2026 goals</b></summary>
-<br/>
-
-- [x] Learn the MERN stack fundamentals
-- [ ] Ship 3 production-ready full-stack projects
-- [ ] Build a personal portfolio with 3D / scroll animations
-- [ ] Contribute to open source
-- [ ] Learn TypeScript and Next.js
 
 </details>
 
@@ -133,14 +166,13 @@ I'm open to collaborating on **interactive web apps**, **UI-heavy projects** and
 <!-- ============ PROJECTS ============ -->
 ## 📌 Featured Projects
 
-<!-- Replace `REPO_NAME` with your real repository names -->
 <div align="center">
 
-<a href="https://github.com/salaj07/REPO_NAME_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salaj07&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/salaj07/REPO_NAME_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salaj07&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/salaj07/Iterix"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salaj07&repo=Iterix&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/salaj07/InterLeet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salaj07&repo=InterLeet&theme=tokyonight&hide_border=true" /></a>
 <br/>
-<a href="https://github.com/salaj07/REPO_NAME_3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salaj07&repo=REPO_NAME_3&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/salaj07/REPO_NAME_4"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salaj07&repo=REPO_NAME_4&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/salaj07/LexShift"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salaj07&repo=LexShift&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/salaj07/Orbit-Ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=salaj07&repo=Orbit-Ai&theme=tokyonight&hide_border=true" /></a>
 
 </div>
 
@@ -174,7 +206,7 @@ I'm open to collaborating on **interactive web apps**, **UI-heavy projects** and
 ## 🐍 A Snake Eating my Contributions Graph
 
 <p align="center">
-  <img src="https://github.com/salaj07/salaj07/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game" />
+  <img src="https://raw.githubusercontent.com/salaj07/salaj07/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions graph" />
 </p>
 
 <!-- ============ QUOTE ============ -->
@@ -188,6 +220,13 @@ I'm open to collaborating on **interactive web apps**, **UI-heavy projects** and
 
 <!-- ============ FOOTER ============ -->
 <div align="center">
+
+<img src="assets/parrots/shufflepartyparrot.gif" width="32" />
+<img src="assets/parrots/dabparrot.gif" width="32" />
+<img src="assets/parrots/explodyparrot.gif" width="32" />
+<img src="assets/parrots/metalparrot.gif" width="32" />
+<img src="assets/parrots/dabparrot.gif" width="32" />
+<img src="assets/parrots/shufflepartyparrot.gif" width="32" />
 
 ### ⭐ Thanks for stopping by! Let's build something awesome together.
 
